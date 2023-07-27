@@ -1,5 +1,7 @@
 # Dynamic Billiards Simulation
-![billiard](https://github.com/arshiarezaie666/Billiards -Dynamic-Simulation/assets/140734459/5dcbe3e2-1e05-4cbd-8861-49715ecf76d8)
+
+![billiard](https://github.com/arshiarezaie666/Dynamic-Billiards-Simulation/assets/140734459/94817215-4d8f-42f1-84b7-b643750d0a6f)
+
 
 Dynamic Billiards Simulation
 Billiards  Simulation
